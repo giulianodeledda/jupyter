@@ -1,2 +1,2 @@
-# jupyter
-Jupyter Files
+# Spinta Necessaria
+## Diagramma Polare
